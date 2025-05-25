@@ -5,3 +5,11 @@
   "excerpt": "This is just a test post to see if everything’s working. Spoiler: it is. 😎",
   "content": "Today I tested my new blog system — built entirely with flat JSON files hosted on GitHub Pages, and rendered with custom PHP on my site.\n\nIt's clean, lightweight, and 100% mine.\n\nHere's to publishing without pushing code every time. 💻✨\n\nNext step? Maybe a GitHub API connection so I can hit 'Publish' right from my site. Let's get it.\n\n✌🏻 - Ryan"
 }
+
+{
+  "title": "Why I’m Using JSON for My Blog",
+  "slug": "json-powered-blog",
+  "date": "2025-05-25",
+  "excerpt": "I wanted something simple, lightweight, and developer-friendly. So I built my blog with flat JSON files and PHP.",
+  "content": "Most people reach for WordPress or a static site generator when they want to start blogging. But I wanted to keep things minimal — and also fun.\n\nSo I decided to use GitHub Pages to store my blog posts as raw JSON files. Then, my PHP site fetches those files and renders them on the fly. No pushing code for each post. No admin dashboard. Just me, my editor, and Git.\n\nThis approach keeps my content portable, version-controlled, and easy to evolve. Plus, it makes for a cool blog post in itself. 😎\n\nIf you’re into clean architecture, indie web building, or just hate WordPress bloat — you might dig this too.\n\nMore to come.\n\n🧙‍♂️ - Ryan"
+}
