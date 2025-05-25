@@ -1,1 +1,7 @@
-I am testing the system!
+{
+  "title": "Testing the Blog System",
+  "slug": "testing-the-blog-system",
+  "date": "2025-05-24",
+  "excerpt": "This is just a test post to see if everything’s working. Spoiler: it is. 😎",
+  "content": "Today I tested my new blog system — built entirely with flat JSON files hosted on GitHub Pages, and rendered with custom PHP on my site.\n\nIt's clean, lightweight, and 100% mine.\n\nHere's to publishing without pushing code every time. 💻✨\n\nNext step? Maybe a GitHub API connection so I can hit 'Publish' right from my site. Let's get it.\n\n✌🏻 - Ryan"
+}
