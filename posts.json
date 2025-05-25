@@ -1,12 +1,5 @@
 [
     {
-        "title": "Test",
-        "slug": "test",
-        "date": "2025-05-25",
-        "excerpt": "test",
-        "url": "https:\/\/ryan-blog.pages.dev\/posts\/2025-05-25-test.json"
-    },
-    {
         "title": "Why I’m Using JSON for My Blog",
         "slug": "json-powered-blog",
         "date": "2025-05-25",
