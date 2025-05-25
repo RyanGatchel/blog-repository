@@ -1,54 +1,5 @@
 [
     {
-        "title": "Do you like learning?",
-        "slug": "do-you-like-learning-",
-        "date": "2025-05-25",
-        "excerpt": "LEarning",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-do-you-like-learning-.json"
-    },
-    {
-        "title": "I'm making a post",
-        "slug": "i-m-making-a-post",
-        "date": "2025-05-25",
-        "excerpt": "this is a post",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-i-m-making-a-post.json"
-    },
-    {
-        "title": "Dieting isn't as hard as I thought it would be.",
-        "slug": "dieting-isn-t-as-hard-as-i-thought-it-would-be-",
-        "date": "2025-05-25",
-        "excerpt": "I really like Mediterranean cuisine ",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-dieting-isn-t-as-hard-as-i-thought-it-would-be-.json"
-    },
-    {
-        "title": "Testing",
-        "slug": "testing",
-        "date": "2025-05-25",
-        "excerpt": "Testing",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-testing.json"
-    },
-    {
-        "title": "My dog Lucky!",
-        "slug": "my-dog-lucky-",
-        "date": "2025-05-25",
-        "excerpt": "He is cute",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-my-dog-lucky-.json"
-    },
-    {
-        "title": "Testing the clear",
-        "slug": "testing-the-clear",
-        "date": "2025-05-25",
-        "excerpt": "Clear",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-testing-the-clear.json"
-    },
-    {
-        "title": "test",
-        "slug": "test",
-        "date": "2025-05-25",
-        "excerpt": "test",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-test.json"
-    },
-    {
         "title": "Why I’m Using JSON for My Blog",
         "slug": "json-powered-blog",
         "date": "2025-05-25",
