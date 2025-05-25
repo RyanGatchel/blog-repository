@@ -1,5 +1,12 @@
 [
     {
+        "title": "My dog Lucky!",
+        "slug": "my-dog-lucky-",
+        "date": "2025-05-25",
+        "excerpt": "He is cute",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-my-dog-lucky-.json"
+    },
+    {
         "title": "Testing the clear",
         "slug": "testing-the-clear",
         "date": "2025-05-25",
