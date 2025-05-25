@@ -1,5 +1,12 @@
 [
     {
+        "title": "I'm making a post",
+        "slug": "i-m-making-a-post",
+        "date": "2025-05-25",
+        "excerpt": "this is a post",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-25-i-m-making-a-post.json"
+    },
+    {
         "title": "Dieting isn't as hard as I thought it would be.",
         "slug": "dieting-isn-t-as-hard-as-i-thought-it-would-be-",
         "date": "2025-05-25",
