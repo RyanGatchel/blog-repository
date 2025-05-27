@@ -1,5 +1,12 @@
 [
     {
+        "title": "Testing a new feature",
+        "slug": "testing-a-new-feature",
+        "date": "2025-05-27",
+        "excerpt": "Testing feature",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-27-testing-a-new-feature.json"
+    },
+    {
         "title": "Dandy's World!",
         "slug": "dandy-s-world-",
         "date": "2025-05-26",
