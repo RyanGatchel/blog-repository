@@ -1,5 +1,12 @@
 [
     {
+        "title": "This is another test to make sure that everything is working.",
+        "slug": "this-is-another-test-to-make-sure-that-everything-is-working-",
+        "date": "2025-06-08",
+        "excerpt": "I have to get my seo stuff done",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-08-this-is-another-test-to-make-sure-that-everything-is-working-.json"
+    },
+    {
         "title": "Testing a new feature",
         "slug": "testing-a-new-feature",
         "date": "2025-05-27",
