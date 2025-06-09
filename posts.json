@@ -1,31 +1,10 @@
 [
     {
-        "title": "Testing Three",
-        "slug": "testing-three",
-        "date": "2025-06-09",
-        "excerpt": "a short little post",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-09-testing-three.json"
-    },
-    {
-        "title": "Test",
-        "slug": "test",
-        "date": "2025-06-09",
-        "excerpt": "Test Test",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-09-test.json"
-    },
-    {
         "title": "This is another test to make sure that everything is working.",
         "slug": "this-is-another-test-to-make-sure-that-everything-is-working-",
         "date": "2025-06-08",
         "excerpt": "I have to get my seo stuff done",
         "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-08-this-is-another-test-to-make-sure-that-everything-is-working-.json"
-    },
-    {
-        "title": "Testing a new feature",
-        "slug": "testing-a-new-feature",
-        "date": "2025-05-27",
-        "excerpt": "Testing feature",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-27-testing-a-new-feature.json"
     },
     {
         "title": "Why I’m Using JSON for My Blog",
@@ -34,11 +13,4 @@
         "excerpt": "I wanted something simple, lightweight, and developer-friendly. So I built my blog with flat JSON files and PHP.",
         "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-json-powered-blog.json"
     },
-    {
-        "title": "Testing the Blog System",
-        "slug": "testing-the-blog-system",
-        "date": "2025-05-24",
-        "excerpt": "This is just a test post to see if everything’s working. Spoiler: it is. 😎",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-testing-the-blog-system.json"
-    }
 ]
