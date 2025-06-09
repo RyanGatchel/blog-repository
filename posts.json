@@ -1,5 +1,12 @@
 [
     {
+        "title": "Testing Three",
+        "slug": "testing-three",
+        "date": "2025-06-09",
+        "excerpt": "a short little post",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-09-testing-three.json"
+    },
+    {
         "title": "Test",
         "slug": "test",
         "date": "2025-06-09",
