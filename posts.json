@@ -12,5 +12,5 @@
         "date": "2025-05-25",
         "excerpt": "I wanted something simple, lightweight, and developer-friendly. So I built my blog with flat JSON files and PHP.",
         "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-json-powered-blog.json"
-    },
+    }
 ]
