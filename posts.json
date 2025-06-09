@@ -1,37 +1,9 @@
 [
     {
-        "title": "test",
-        "slug": "test",
-        "date": "2025-06-09",
-        "excerpt": "test",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-09-test.json"
-    },
-    {
         "title": "Second test",
         "slug": "second-test",
         "date": "2025-06-09",
         "excerpt": "Testing",
         "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-09-second-test.json"
-    },
-    {
-        "title": "Testing new bluesky link",
-        "slug": "testing-new-bluesky-link",
-        "date": "2025-06-09",
-        "excerpt": "Test",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-09-testing-new-bluesky-link.json"
-    },
-    {
-        "title": "This is another test to make sure that everything is working.",
-        "slug": "this-is-another-test-to-make-sure-that-everything-is-working-",
-        "date": "2025-06-08",
-        "excerpt": "I have to get my seo stuff done",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-08-this-is-another-test-to-make-sure-that-everything-is-working-.json"
-    },
-    {
-        "title": "Why I’m Using JSON for My Blog",
-        "slug": "json-powered-blog",
-        "date": "2025-05-25",
-        "excerpt": "I wanted something simple, lightweight, and developer-friendly. So I built my blog with flat JSON files and PHP.",
-        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-05-json-powered-blog.json"
     }
 ]
