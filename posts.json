@@ -1,5 +1,12 @@
 [
     {
+        "title": "Creating a slug again",
+        "slug": "creating-a-slug-again",
+        "date": "2025-06-14",
+        "excerpt": "test",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-14-creating-a-slug-again.json"
+    },
+    {
         "title": "Slug test",
         "slug": "slug-test",
         "date": "2025-06-14",
