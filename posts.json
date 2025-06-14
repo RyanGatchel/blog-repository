@@ -1,5 +1,12 @@
 [
     {
+        "title": "Testing custom var",
+        "slug": "testing-custom-var",
+        "date": "2025-06-14",
+        "excerpt": "pkease wrk",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-14-testing-custom-var.json"
+    },
+    {
         "title": "New Teset",
         "slug": "new-teset",
         "date": "2025-06-14",
