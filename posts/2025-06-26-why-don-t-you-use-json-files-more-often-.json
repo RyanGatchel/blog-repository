@@ -1,0 +1,7 @@
+{
+    "title": "Why don't you use JSON files more often?",
+    "slug": "why-don-t-you-use-json-files-more-often-",
+    "date": "2025-06-26",
+    "excerpt": "JSON when used responsibly can be used instead of a database for small projects. ",
+    "content": "Are you using MySQL or MongoDB like a plebeian? Ridiculous! You should be using JSON. \n\nOkay, seriously while MySQL, MongoDB, and similar databases are widely used and a lot better when it comes to scaling. You should try the challenge of just using JSON. Building small projects even if having a few thousand users JSON should work fine. While there are pros and cons it would be a good challenge. \n\nPros first because this is a pro JSON post! It's flexible, easy to setup, and it's fun. You can do a lot with JSON files from using it for setting up a goal tracker to a blogging system. You can also do it securely if you know what you're doing which can also be a con.\n\nCon is it can be unsecure. If you're not careful you can share private information so I don't recommend using it for secure data. If you have questions you can always shoot me a message! The form is near the bottom of the homepage. JSON files are hard to scale if using as a database. \n\nProject ideas you can do if you want to try a JSON type database project!\n- game using a JSON as the database\n- simple blogging system\n- very simple voting system (vote on new games coming out)\n\nThose are my thoughts on using JSON files as a makeshift database :) "
+}
