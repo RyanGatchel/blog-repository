@@ -1,5 +1,12 @@
 [
     {
+        "title": "Why don't you use JSON files more often?",
+        "slug": "why-don-t-you-use-json-files-more-often-",
+        "date": "2025-06-26",
+        "excerpt": "JSON when used responsibly can be used instead of a database for small projects. ",
+        "url": "https:\/\/ryangatchel.github.io\/blog-repository\/posts\/2025-06-26-why-don-t-you-use-json-files-more-often-.json"
+    },
+    {
         "title": "Testing updated url",
         "slug": "testing-updated-url",
         "date": "2025-06-14",
